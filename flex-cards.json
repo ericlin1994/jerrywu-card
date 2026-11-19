@@ -42,7 +42,7 @@
               "text": "1 / 6",
               "size": "xxs",
               "weight": "regular",
-              "color": "#6B7280",
+              "color": "#5F6674",
               "wrap": false,
               "margin": "none",
               "align": "center"
@@ -82,13 +82,13 @@
                       "background": {
                         "type": "linearGradient",
                         "angle": "90deg",
-                        "startColor": "#C39E7E",
-                        "endColor": "#8F6C4F"
+                        "startColor": "#A3633A",
+                        "endColor": "#8F5630"
                       },
                       "cornerRadius": "100px",
                       "flex": 1,
                       "borderWidth": "1px",
-                      "borderColor": "#CAA98D",
+                      "borderColor": "#B27C5A",
                       "action": {
                         "type": "uri",
                         "label": "LINE 聯絡",
@@ -283,7 +283,7 @@
               "text": "2 / 6",
               "size": "xxs",
               "weight": "regular",
-              "color": "#6B7280",
+              "color": "#5F6674",
               "wrap": false,
               "margin": "none",
               "align": "center"
@@ -323,13 +323,13 @@
                       "background": {
                         "type": "linearGradient",
                         "angle": "90deg",
-                        "startColor": "#C39E7E",
-                        "endColor": "#8F6C4F"
+                        "startColor": "#A3633A",
+                        "endColor": "#8F5630"
                       },
                       "cornerRadius": "100px",
                       "flex": 1,
                       "borderWidth": "1px",
-                      "borderColor": "#CAA98D",
+                      "borderColor": "#B27C5A",
                       "action": {
                         "type": "uri",
                         "label": "LINE 聯絡",
@@ -524,7 +524,7 @@
               "text": "3 / 6",
               "size": "xxs",
               "weight": "regular",
-              "color": "#6B7280",
+              "color": "#5F6674",
               "wrap": false,
               "margin": "none",
               "align": "center"
@@ -564,13 +564,13 @@
                       "background": {
                         "type": "linearGradient",
                         "angle": "90deg",
-                        "startColor": "#C39E7E",
-                        "endColor": "#8F6C4F"
+                        "startColor": "#A3633A",
+                        "endColor": "#8F5630"
                       },
                       "cornerRadius": "100px",
                       "flex": 1,
                       "borderWidth": "1px",
-                      "borderColor": "#CAA98D",
+                      "borderColor": "#B27C5A",
                       "action": {
                         "type": "uri",
                         "label": "LINE 聯絡",
@@ -765,7 +765,7 @@
               "text": "4 / 6",
               "size": "xxs",
               "weight": "regular",
-              "color": "#6B7280",
+              "color": "#5F6674",
               "wrap": false,
               "margin": "none",
               "align": "center"
@@ -805,13 +805,13 @@
                       "background": {
                         "type": "linearGradient",
                         "angle": "90deg",
-                        "startColor": "#C39E7E",
-                        "endColor": "#8F6C4F"
+                        "startColor": "#A3633A",
+                        "endColor": "#8F5630"
                       },
                       "cornerRadius": "100px",
                       "flex": 1,
                       "borderWidth": "1px",
-                      "borderColor": "#CAA98D",
+                      "borderColor": "#B27C5A",
                       "action": {
                         "type": "uri",
                         "label": "LINE 聯絡",
@@ -1006,7 +1006,7 @@
               "text": "5 / 6",
               "size": "xxs",
               "weight": "regular",
-              "color": "#6B7280",
+              "color": "#5F6674",
               "wrap": false,
               "margin": "none",
               "align": "center"
@@ -1046,13 +1046,13 @@
                       "background": {
                         "type": "linearGradient",
                         "angle": "90deg",
-                        "startColor": "#C39E7E",
-                        "endColor": "#8F6C4F"
+                        "startColor": "#A3633A",
+                        "endColor": "#8F5630"
                       },
                       "cornerRadius": "100px",
                       "flex": 1,
                       "borderWidth": "1px",
-                      "borderColor": "#CAA98D",
+                      "borderColor": "#B27C5A",
                       "action": {
                         "type": "uri",
                         "label": "LINE 聯絡",
@@ -1238,7 +1238,7 @@
               "text": "先釐清問題，再討論合作方式",
               "size": "xs",
               "weight": "bold",
-              "color": "#B78B65",
+              "color": "#955A30",
               "wrap": true,
               "margin": "xs"
             },
@@ -1470,7 +1470,7 @@
               "text": "6 / 6",
               "size": "xxs",
               "weight": "regular",
-              "color": "#6B7280",
+              "color": "#5F6674",
               "wrap": false,
               "margin": "none",
               "align": "center"
@@ -1510,13 +1510,13 @@
                       "background": {
                         "type": "linearGradient",
                         "angle": "90deg",
-                        "startColor": "#C39E7E",
-                        "endColor": "#8F6C4F"
+                        "startColor": "#A3633A",
+                        "endColor": "#8F5630"
                       },
                       "cornerRadius": "100px",
                       "flex": 1,
                       "borderWidth": "1px",
-                      "borderColor": "#CAA98D",
+                      "borderColor": "#B27C5A",
                       "action": {
                         "type": "uri",
                         "label": "LINE 聯絡",
