@@ -1,0 +1,405 @@
+{
+  "type": "flex",
+  "altText": "F1 無圖版",
+  "contents": {
+    "type": "carousel",
+    "contents": [
+      {
+        "type": "bubble",
+        "styles": {
+          "body": {
+            "backgroundColor": "#243447"
+          }
+        },
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "text",
+              "text": "吳伯謙  Jerry Wu",
+              "size": "sm",
+              "weight": "bold",
+              "color": "#FFFFFF",
+              "wrap": true,
+              "margin": "none"
+            },
+            {
+              "type": "text",
+              "text": "· 吳伯謙 Jerry Wu｜企業經營與組織成長教練\n· 讓經營不再只靠一個人，讓成長成為一群人的能力",
+              "size": "xs",
+              "weight": "regular",
+              "color": "#A3AEBD",
+              "wrap": true,
+              "margin": "xs"
+            }
+          ],
+          "spacing": "none"
+        },
+        "footer": {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "box",
+              "layout": "vertical",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "加 LINE 聊聊",
+                  "size": "xs",
+                  "weight": "bold",
+                  "color": "#FFFFFF",
+                  "wrap": false,
+                  "align": "center"
+                }
+              ],
+              "spacing": "md",
+              "paddingAll": "12px",
+              "backgroundColor": "#B78B65",
+              "cornerRadius": "100px",
+              "action": {
+                "type": "uri",
+                "label": "加 LINE 聊聊",
+                "uri": "https://liff.line.me/2011946176-OWaDN0zD?t=1&c=jerrywu&to=line&u=https%3A%2F%2Fline.me%2Fti%2Fp%2F~Jerrywu0907"
+              }
+            }
+          ],
+          "spacing": "none",
+          "paddingAll": "12px",
+          "backgroundColor": "#243447"
+        }
+      },
+      {
+        "type": "bubble",
+        "styles": {
+          "body": {
+            "backgroundColor": "#243447"
+          }
+        },
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "text",
+              "text": "我專為誰服務",
+              "size": "sm",
+              "weight": "bold",
+              "color": "#FFFFFF",
+              "wrap": true,
+              "margin": "none"
+            },
+            {
+              "type": "text",
+              "text": "· 我專為誰服務\n· 成長型企業主｜多據點經營者｜創辦人｜核心主管｜二代接班人\n· 什麼事都要問我，沒有時間想下一步\n· 人變多了，我反而更累\n· 想交棒，卻沒有人接得住\n· 有目標、有策略，執行還是卡關",
+              "size": "xs",
+              "weight": "regular",
+              "color": "#A3AEBD",
+              "wrap": true,
+              "margin": "xs"
+            }
+          ],
+          "spacing": "none"
+        },
+        "footer": {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "box",
+              "layout": "vertical",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "加 LINE 聊聊",
+                  "size": "xs",
+                  "weight": "bold",
+                  "color": "#FFFFFF",
+                  "wrap": false,
+                  "align": "center"
+                }
+              ],
+              "spacing": "md",
+              "paddingAll": "12px",
+              "backgroundColor": "#B78B65",
+              "cornerRadius": "100px",
+              "action": {
+                "type": "uri",
+                "label": "加 LINE 聊聊",
+                "uri": "https://liff.line.me/2011946176-OWaDN0zD?t=1&c=jerrywu&to=line&u=https%3A%2F%2Fline.me%2Fti%2Fp%2F~Jerrywu0907"
+              }
+            }
+          ],
+          "spacing": "none",
+          "paddingAll": "12px",
+          "backgroundColor": "#243447"
+        }
+      },
+      {
+        "type": "bubble",
+        "styles": {
+          "body": {
+            "backgroundColor": "#243447"
+          }
+        },
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "text",
+              "text": "我能為你做什麼",
+              "size": "sm",
+              "weight": "bold",
+              "color": "#FFFFFF",
+              "wrap": true,
+              "margin": "none"
+            },
+            {
+              "type": "text",
+              "text": "· 我能為你做什麼\n· 經營者陪跑 釐清方向與優先順序\n· 主管與團隊培養 權責、授權與溝通\n· 業務團隊訓練 需求探索到成交追蹤\n· 轉型與接班陪跑 角色轉換與跨代共識",
+              "size": "xs",
+              "weight": "regular",
+              "color": "#A3AEBD",
+              "wrap": true,
+              "margin": "xs"
+            }
+          ],
+          "spacing": "none"
+        },
+        "footer": {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "box",
+              "layout": "vertical",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "加 LINE 聊聊",
+                  "size": "xs",
+                  "weight": "bold",
+                  "color": "#FFFFFF",
+                  "wrap": false,
+                  "align": "center"
+                }
+              ],
+              "spacing": "md",
+              "paddingAll": "12px",
+              "backgroundColor": "#B78B65",
+              "cornerRadius": "100px",
+              "action": {
+                "type": "uri",
+                "label": "加 LINE 聊聊",
+                "uri": "https://liff.line.me/2011946176-OWaDN0zD?t=1&c=jerrywu&to=line&u=https%3A%2F%2Fline.me%2Fti%2Fp%2F~Jerrywu0907"
+              }
+            }
+          ],
+          "spacing": "none",
+          "paddingAll": "12px",
+          "backgroundColor": "#243447"
+        }
+      },
+      {
+        "type": "bubble",
+        "styles": {
+          "body": {
+            "backgroundColor": "#243447"
+          }
+        },
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "text",
+              "text": "為什麼選擇 Jerry？",
+              "size": "sm",
+              "weight": "bold",
+              "color": "#FFFFFF",
+              "wrap": true,
+              "margin": "none"
+            },
+            {
+              "type": "text",
+              "text": "· 為什麼選擇 Jerry？\n· 懂經營，也看見人的問題\n· 從策略走進現場\n· 把能力留在團隊",
+              "size": "xs",
+              "weight": "regular",
+              "color": "#A3AEBD",
+              "wrap": true,
+              "margin": "xs"
+            }
+          ],
+          "spacing": "none"
+        },
+        "footer": {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "box",
+              "layout": "vertical",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "加 LINE 聊聊",
+                  "size": "xs",
+                  "weight": "bold",
+                  "color": "#FFFFFF",
+                  "wrap": false,
+                  "align": "center"
+                }
+              ],
+              "spacing": "md",
+              "paddingAll": "12px",
+              "backgroundColor": "#B78B65",
+              "cornerRadius": "100px",
+              "action": {
+                "type": "uri",
+                "label": "加 LINE 聊聊",
+                "uri": "https://liff.line.me/2011946176-OWaDN0zD?t=1&c=jerrywu&to=line&u=https%3A%2F%2Fline.me%2Fti%2Fp%2F~Jerrywu0907"
+              }
+            }
+          ],
+          "spacing": "none",
+          "paddingAll": "12px",
+          "backgroundColor": "#243447"
+        }
+      },
+      {
+        "type": "bubble",
+        "styles": {
+          "body": {
+            "backgroundColor": "#243447"
+          }
+        },
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "text",
+              "text": "服務流程",
+              "size": "sm",
+              "weight": "bold",
+              "color": "#FFFFFF",
+              "wrap": true,
+              "margin": "none"
+            },
+            {
+              "type": "text",
+              "text": "· 服務流程\n· 釐清現況 → 對齊目標 → 設計行動 → 現場陪跑 → 檢核調整",
+              "size": "xs",
+              "weight": "regular",
+              "color": "#A3AEBD",
+              "wrap": true,
+              "margin": "xs"
+            }
+          ],
+          "spacing": "none"
+        },
+        "footer": {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "box",
+              "layout": "vertical",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "加 LINE 聊聊",
+                  "size": "xs",
+                  "weight": "bold",
+                  "color": "#FFFFFF",
+                  "wrap": false,
+                  "align": "center"
+                }
+              ],
+              "spacing": "md",
+              "paddingAll": "12px",
+              "backgroundColor": "#B78B65",
+              "cornerRadius": "100px",
+              "action": {
+                "type": "uri",
+                "label": "加 LINE 聊聊",
+                "uri": "https://liff.line.me/2011946176-OWaDN0zD?t=1&c=jerrywu&to=line&u=https%3A%2F%2Fline.me%2Fti%2Fp%2F~Jerrywu0907"
+              }
+            }
+          ],
+          "spacing": "none",
+          "paddingAll": "12px",
+          "backgroundColor": "#243447"
+        }
+      },
+      {
+        "type": "bubble",
+        "styles": {
+          "body": {
+            "backgroundColor": "#243447"
+          }
+        },
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "text",
+              "text": "聊聊你現在最卡的一件事",
+              "size": "sm",
+              "weight": "bold",
+              "color": "#FFFFFF",
+              "wrap": true,
+              "margin": "none"
+            },
+            {
+              "type": "text",
+              "text": "· 聊聊你現在最卡的一件事\n· 電話 0963-227013\n· LINE Jerrywu0907\n· 台北市松山區（捷運南京三民站）\n· 採預約制",
+              "size": "xs",
+              "weight": "regular",
+              "color": "#A3AEBD",
+              "wrap": true,
+              "margin": "xs"
+            }
+          ],
+          "spacing": "none"
+        },
+        "footer": {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "box",
+              "layout": "vertical",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "加 LINE 聊聊",
+                  "size": "xs",
+                  "weight": "bold",
+                  "color": "#FFFFFF",
+                  "wrap": false,
+                  "align": "center"
+                }
+              ],
+              "spacing": "md",
+              "paddingAll": "12px",
+              "backgroundColor": "#B78B65",
+              "cornerRadius": "100px",
+              "action": {
+                "type": "uri",
+                "label": "加 LINE 聊聊",
+                "uri": "https://liff.line.me/2011946176-OWaDN0zD?t=1&c=jerrywu&to=line&u=https%3A%2F%2Fline.me%2Fti%2Fp%2F~Jerrywu0907"
+              }
+            }
+          ],
+          "spacing": "none",
+          "paddingAll": "12px",
+          "backgroundColor": "#243447"
+        }
+      }
+    ]
+  }
+}
