@@ -24,7 +24,7 @@
               "text": "讓經營不再只靠一個人，讓成長成為一群人的能力",
               "size": "xxs",
               "weight": "regular",
-              "color": "#A3AEBD",
+              "color": "#E0E4E9",
               "wrap": true,
               "margin": "none"
             }
@@ -69,7 +69,7 @@
                         },
                         {
                           "type": "text",
-                          "text": "LINE 聯絡",
+                          "text": "聊聊團隊現況",
                           "size": "xxs",
                           "weight": "bold",
                           "color": "#FFFFFF",
@@ -91,7 +91,7 @@
                       "borderColor": "#B27C5A",
                       "action": {
                         "type": "uri",
-                        "label": "LINE 聯絡",
+                        "label": "聊聊團隊現況",
                         "uri": "https://liff.line.me/2011946176-OWaDN0zD?t=1&c=jerrywu&to=line&u=https%3A%2F%2Fline.me%2Fti%2Fp%2F~Jerrywu0907"
                       }
                     },
@@ -132,7 +132,7 @@
                       "action": {
                         "type": "uri",
                         "label": "服務介紹",
-                        "uri": "https://liff.line.me/2011946176-OWaDN0zD?t=1&c=jerrywu&to=services&u=https%3A%2F%2Fjerrywu.cardtaiwan.com%2F%3Fv%3D2026-11-20-2236%23services"
+                        "uri": "https://liff.line.me/2011946176-OWaDN0zD?t=1&c=jerrywu&to=services&u=https%3A%2F%2Fjerrywu.cardtaiwan.com%2F%3Fv%3D2026-11-21-0047%23services"
                       }
                     },
                     {
@@ -172,7 +172,7 @@
                       "action": {
                         "type": "uri",
                         "label": "關於 Jerry",
-                        "uri": "https://liff.line.me/2011946176-OWaDN0zD?t=1&c=jerrywu&to=about&u=https%3A%2F%2Fjerrywu.cardtaiwan.com%2F%3Fv%3D2026-11-20-2236%23about"
+                        "uri": "https://liff.line.me/2011946176-OWaDN0zD?t=1&c=jerrywu&to=about&u=https%3A%2F%2Fjerrywu.cardtaiwan.com%2F%3Fv%3D2026-11-21-0047%23about"
                       }
                     }
                   ],
@@ -180,50 +180,58 @@
                 },
                 {
                   "type": "box",
-                  "layout": "horizontal",
+                  "layout": "vertical",
                   "contents": [
                     {
                       "type": "box",
-                      "layout": "vertical",
+                      "layout": "horizontal",
                       "contents": [
                         {
-                          "type": "image",
-                          "url": "https://jerrywu.cardtaiwan.com/img/icon-share-v6.png",
-                          "size": "20px",
-                          "aspectRatio": "1:1",
-                          "aspectMode": "cover",
-                          "flex": 0
-                        },
-                        {
-                          "type": "text",
-                          "text": "分享名片",
-                          "size": "xxs",
-                          "weight": "bold",
-                          "color": "#243447",
-                          "wrap": true,
-                          "align": "center"
+                          "type": "box",
+                          "layout": "vertical",
+                          "contents": [
+                            {
+                              "type": "image",
+                              "url": "https://jerrywu.cardtaiwan.com/img/icon-share-v6.png",
+                              "size": "20px",
+                              "aspectRatio": "1:1",
+                              "aspectMode": "cover",
+                              "flex": 0
+                            },
+                            {
+                              "type": "text",
+                              "text": "分享名片",
+                              "size": "xxs",
+                              "weight": "bold",
+                              "color": "#243447",
+                              "wrap": true,
+                              "align": "center"
+                            }
+                          ],
+                          "spacing": "xs",
+                          "paddingAll": "8px",
+                          "background": {
+                            "type": "linearGradient",
+                            "angle": "90deg",
+                            "startColor": "#EFEAE1",
+                            "endColor": "#E4DDD1"
+                          },
+                          "cornerRadius": "100px",
+                          "flex": 0,
+                          "borderWidth": "1px",
+                          "borderColor": "#C2CAD6",
+                          "action": {
+                            "type": "uri",
+                            "label": "分享名片",
+                            "uri": "https://liff.line.me/2011946176-OWaDN0zD?share=1&c=jerrywu&src=https%3A%2F%2Fjerrywu.cardtaiwan.com%2Fflex-cards.json&v=2026-11-21-0047"
+                          }
                         }
                       ],
-                      "spacing": "xs",
-                      "paddingAll": "8px",
-                      "background": {
-                        "type": "linearGradient",
-                        "angle": "90deg",
-                        "startColor": "#EFEAE1",
-                        "endColor": "#E4DDD1"
-                      },
-                      "cornerRadius": "100px",
-                      "flex": 1,
-                      "borderWidth": "1px",
-                      "borderColor": "#C2CAD6",
-                      "action": {
-                        "type": "uri",
-                        "label": "分享名片",
-                        "uri": "https://liff.line.me/2011946176-OWaDN0zD?share=1&c=jerrywu&src=https%3A%2F%2Fjerrywu.cardtaiwan.com%2Fflex-cards.json&v=2026-11-20-2236"
-                      }
+                      "spacing": "sm"
                     }
                   ],
-                  "spacing": "sm"
+                  "spacing": "none",
+                  "alignItems": "center"
                 }
               ],
               "spacing": "sm"
@@ -234,14 +242,14 @@
         },
         "hero": {
           "type": "image",
-          "url": "https://jerrywu.cardtaiwan.com/img/card1-v15.jpg",
+          "url": "https://jerrywu.cardtaiwan.com/img/card1-v16.jpg",
           "size": "full",
           "aspectRatio": "3:4",
           "aspectMode": "cover",
           "action": {
             "type": "uri",
             "label": "開啟名片",
-            "uri": "https://liff.line.me/2011946176-OWaDN0zD?t=1&c=jerrywu&to=page&u=https%3A%2F%2Fjerrywu.cardtaiwan.com%2F%3Fv%3D2026-11-20-2236"
+            "uri": "https://liff.line.me/2011946176-OWaDN0zD?t=1&c=jerrywu&to=page&u=https%3A%2F%2Fjerrywu.cardtaiwan.com%2F%3Fv%3D2026-11-21-0047"
           }
         }
       },
@@ -262,10 +270,10 @@
           "contents": [
             {
               "type": "text",
-              "text": "人變多了你卻更忙・方向有團隊推不動・想放手沒人接得住",
+              "text": "這些狀況，你中了幾項？",
               "size": "xxs",
               "weight": "regular",
-              "color": "#A3AEBD",
+              "color": "#E0E4E9",
               "wrap": true,
               "margin": "none"
             }
@@ -310,7 +318,7 @@
                         },
                         {
                           "type": "text",
-                          "text": "LINE 聯絡",
+                          "text": "聊聊團隊現況",
                           "size": "xxs",
                           "weight": "bold",
                           "color": "#FFFFFF",
@@ -332,7 +340,7 @@
                       "borderColor": "#B27C5A",
                       "action": {
                         "type": "uri",
-                        "label": "LINE 聯絡",
+                        "label": "聊聊團隊現況",
                         "uri": "https://liff.line.me/2011946176-OWaDN0zD?t=1&c=jerrywu&to=line&u=https%3A%2F%2Fline.me%2Fti%2Fp%2F~Jerrywu0907"
                       }
                     },
@@ -373,7 +381,7 @@
                       "action": {
                         "type": "uri",
                         "label": "服務介紹",
-                        "uri": "https://liff.line.me/2011946176-OWaDN0zD?t=1&c=jerrywu&to=services&u=https%3A%2F%2Fjerrywu.cardtaiwan.com%2F%3Fv%3D2026-11-20-2236%23services"
+                        "uri": "https://liff.line.me/2011946176-OWaDN0zD?t=1&c=jerrywu&to=services&u=https%3A%2F%2Fjerrywu.cardtaiwan.com%2F%3Fv%3D2026-11-21-0047%23services"
                       }
                     },
                     {
@@ -413,7 +421,7 @@
                       "action": {
                         "type": "uri",
                         "label": "關於 Jerry",
-                        "uri": "https://liff.line.me/2011946176-OWaDN0zD?t=1&c=jerrywu&to=about&u=https%3A%2F%2Fjerrywu.cardtaiwan.com%2F%3Fv%3D2026-11-20-2236%23about"
+                        "uri": "https://liff.line.me/2011946176-OWaDN0zD?t=1&c=jerrywu&to=about&u=https%3A%2F%2Fjerrywu.cardtaiwan.com%2F%3Fv%3D2026-11-21-0047%23about"
                       }
                     }
                   ],
@@ -421,50 +429,58 @@
                 },
                 {
                   "type": "box",
-                  "layout": "horizontal",
+                  "layout": "vertical",
                   "contents": [
                     {
                       "type": "box",
-                      "layout": "vertical",
+                      "layout": "horizontal",
                       "contents": [
                         {
-                          "type": "image",
-                          "url": "https://jerrywu.cardtaiwan.com/img/icon-share-v6.png",
-                          "size": "20px",
-                          "aspectRatio": "1:1",
-                          "aspectMode": "cover",
-                          "flex": 0
-                        },
-                        {
-                          "type": "text",
-                          "text": "分享名片",
-                          "size": "xxs",
-                          "weight": "bold",
-                          "color": "#243447",
-                          "wrap": true,
-                          "align": "center"
+                          "type": "box",
+                          "layout": "vertical",
+                          "contents": [
+                            {
+                              "type": "image",
+                              "url": "https://jerrywu.cardtaiwan.com/img/icon-share-v6.png",
+                              "size": "20px",
+                              "aspectRatio": "1:1",
+                              "aspectMode": "cover",
+                              "flex": 0
+                            },
+                            {
+                              "type": "text",
+                              "text": "分享名片",
+                              "size": "xxs",
+                              "weight": "bold",
+                              "color": "#243447",
+                              "wrap": true,
+                              "align": "center"
+                            }
+                          ],
+                          "spacing": "xs",
+                          "paddingAll": "8px",
+                          "background": {
+                            "type": "linearGradient",
+                            "angle": "90deg",
+                            "startColor": "#EFEAE1",
+                            "endColor": "#E4DDD1"
+                          },
+                          "cornerRadius": "100px",
+                          "flex": 0,
+                          "borderWidth": "1px",
+                          "borderColor": "#C2CAD6",
+                          "action": {
+                            "type": "uri",
+                            "label": "分享名片",
+                            "uri": "https://liff.line.me/2011946176-OWaDN0zD?share=1&c=jerrywu&src=https%3A%2F%2Fjerrywu.cardtaiwan.com%2Fflex-cards.json&v=2026-11-21-0047"
+                          }
                         }
                       ],
-                      "spacing": "xs",
-                      "paddingAll": "8px",
-                      "background": {
-                        "type": "linearGradient",
-                        "angle": "90deg",
-                        "startColor": "#EFEAE1",
-                        "endColor": "#E4DDD1"
-                      },
-                      "cornerRadius": "100px",
-                      "flex": 1,
-                      "borderWidth": "1px",
-                      "borderColor": "#C2CAD6",
-                      "action": {
-                        "type": "uri",
-                        "label": "分享名片",
-                        "uri": "https://liff.line.me/2011946176-OWaDN0zD?share=1&c=jerrywu&src=https%3A%2F%2Fjerrywu.cardtaiwan.com%2Fflex-cards.json&v=2026-11-20-2236"
-                      }
+                      "spacing": "sm"
                     }
                   ],
-                  "spacing": "sm"
+                  "spacing": "none",
+                  "alignItems": "center"
                 }
               ],
               "spacing": "sm"
@@ -475,14 +491,14 @@
         },
         "hero": {
           "type": "image",
-          "url": "https://jerrywu.cardtaiwan.com/img/card2-v8.jpg",
+          "url": "https://jerrywu.cardtaiwan.com/img/card2-v9.jpg",
           "size": "full",
           "aspectRatio": "3:4",
           "aspectMode": "cover",
           "action": {
             "type": "uri",
             "label": "開啟名片",
-            "uri": "https://liff.line.me/2011946176-OWaDN0zD?t=1&c=jerrywu&to=page&u=https%3A%2F%2Fjerrywu.cardtaiwan.com%2F%3Fv%3D2026-11-20-2236"
+            "uri": "https://liff.line.me/2011946176-OWaDN0zD?t=1&c=jerrywu&to=page&u=https%3A%2F%2Fjerrywu.cardtaiwan.com%2F%3Fv%3D2026-11-21-0047"
           }
         }
       },
@@ -503,10 +519,10 @@
           "contents": [
             {
               "type": "text",
-              "text": "方向清楚・主管扛責・團隊能動",
+              "text": "三件事，都有方法",
               "size": "xxs",
               "weight": "regular",
-              "color": "#A3AEBD",
+              "color": "#E0E4E9",
               "wrap": true,
               "margin": "none"
             }
@@ -551,7 +567,7 @@
                         },
                         {
                           "type": "text",
-                          "text": "LINE 聯絡",
+                          "text": "聊聊團隊現況",
                           "size": "xxs",
                           "weight": "bold",
                           "color": "#FFFFFF",
@@ -573,7 +589,7 @@
                       "borderColor": "#B27C5A",
                       "action": {
                         "type": "uri",
-                        "label": "LINE 聯絡",
+                        "label": "聊聊團隊現況",
                         "uri": "https://liff.line.me/2011946176-OWaDN0zD?t=1&c=jerrywu&to=line&u=https%3A%2F%2Fline.me%2Fti%2Fp%2F~Jerrywu0907"
                       }
                     },
@@ -614,7 +630,7 @@
                       "action": {
                         "type": "uri",
                         "label": "服務介紹",
-                        "uri": "https://liff.line.me/2011946176-OWaDN0zD?t=1&c=jerrywu&to=services&u=https%3A%2F%2Fjerrywu.cardtaiwan.com%2F%3Fv%3D2026-11-20-2236%23services"
+                        "uri": "https://liff.line.me/2011946176-OWaDN0zD?t=1&c=jerrywu&to=services&u=https%3A%2F%2Fjerrywu.cardtaiwan.com%2F%3Fv%3D2026-11-21-0047%23services"
                       }
                     },
                     {
@@ -654,7 +670,7 @@
                       "action": {
                         "type": "uri",
                         "label": "關於 Jerry",
-                        "uri": "https://liff.line.me/2011946176-OWaDN0zD?t=1&c=jerrywu&to=about&u=https%3A%2F%2Fjerrywu.cardtaiwan.com%2F%3Fv%3D2026-11-20-2236%23about"
+                        "uri": "https://liff.line.me/2011946176-OWaDN0zD?t=1&c=jerrywu&to=about&u=https%3A%2F%2Fjerrywu.cardtaiwan.com%2F%3Fv%3D2026-11-21-0047%23about"
                       }
                     }
                   ],
@@ -662,50 +678,58 @@
                 },
                 {
                   "type": "box",
-                  "layout": "horizontal",
+                  "layout": "vertical",
                   "contents": [
                     {
                       "type": "box",
-                      "layout": "vertical",
+                      "layout": "horizontal",
                       "contents": [
                         {
-                          "type": "image",
-                          "url": "https://jerrywu.cardtaiwan.com/img/icon-share-v6.png",
-                          "size": "20px",
-                          "aspectRatio": "1:1",
-                          "aspectMode": "cover",
-                          "flex": 0
-                        },
-                        {
-                          "type": "text",
-                          "text": "分享名片",
-                          "size": "xxs",
-                          "weight": "bold",
-                          "color": "#243447",
-                          "wrap": true,
-                          "align": "center"
+                          "type": "box",
+                          "layout": "vertical",
+                          "contents": [
+                            {
+                              "type": "image",
+                              "url": "https://jerrywu.cardtaiwan.com/img/icon-share-v6.png",
+                              "size": "20px",
+                              "aspectRatio": "1:1",
+                              "aspectMode": "cover",
+                              "flex": 0
+                            },
+                            {
+                              "type": "text",
+                              "text": "分享名片",
+                              "size": "xxs",
+                              "weight": "bold",
+                              "color": "#243447",
+                              "wrap": true,
+                              "align": "center"
+                            }
+                          ],
+                          "spacing": "xs",
+                          "paddingAll": "8px",
+                          "background": {
+                            "type": "linearGradient",
+                            "angle": "90deg",
+                            "startColor": "#EFEAE1",
+                            "endColor": "#E4DDD1"
+                          },
+                          "cornerRadius": "100px",
+                          "flex": 0,
+                          "borderWidth": "1px",
+                          "borderColor": "#C2CAD6",
+                          "action": {
+                            "type": "uri",
+                            "label": "分享名片",
+                            "uri": "https://liff.line.me/2011946176-OWaDN0zD?share=1&c=jerrywu&src=https%3A%2F%2Fjerrywu.cardtaiwan.com%2Fflex-cards.json&v=2026-11-21-0047"
+                          }
                         }
                       ],
-                      "spacing": "xs",
-                      "paddingAll": "8px",
-                      "background": {
-                        "type": "linearGradient",
-                        "angle": "90deg",
-                        "startColor": "#EFEAE1",
-                        "endColor": "#E4DDD1"
-                      },
-                      "cornerRadius": "100px",
-                      "flex": 1,
-                      "borderWidth": "1px",
-                      "borderColor": "#C2CAD6",
-                      "action": {
-                        "type": "uri",
-                        "label": "分享名片",
-                        "uri": "https://liff.line.me/2011946176-OWaDN0zD?share=1&c=jerrywu&src=https%3A%2F%2Fjerrywu.cardtaiwan.com%2Fflex-cards.json&v=2026-11-20-2236"
-                      }
+                      "spacing": "sm"
                     }
                   ],
-                  "spacing": "sm"
+                  "spacing": "none",
+                  "alignItems": "center"
                 }
               ],
               "spacing": "sm"
@@ -716,14 +740,14 @@
         },
         "hero": {
           "type": "image",
-          "url": "https://jerrywu.cardtaiwan.com/img/card3-v9.jpg",
+          "url": "https://jerrywu.cardtaiwan.com/img/card3-v10.jpg",
           "size": "full",
           "aspectRatio": "3:4",
           "aspectMode": "cover",
           "action": {
             "type": "uri",
             "label": "開啟名片",
-            "uri": "https://liff.line.me/2011946176-OWaDN0zD?t=1&c=jerrywu&to=page&u=https%3A%2F%2Fjerrywu.cardtaiwan.com%2F%3Fv%3D2026-11-20-2236"
+            "uri": "https://liff.line.me/2011946176-OWaDN0zD?t=1&c=jerrywu&to=page&u=https%3A%2F%2Fjerrywu.cardtaiwan.com%2F%3Fv%3D2026-11-21-0047"
           }
         }
       },
@@ -744,10 +768,10 @@
           "contents": [
             {
               "type": "text",
-              "text": "醫療服務團隊｜組織成長陪伴案例（成果待補）",
+              "text": "一個真實的陪伴過程",
               "size": "xxs",
               "weight": "regular",
-              "color": "#A3AEBD",
+              "color": "#E0E4E9",
               "wrap": true,
               "margin": "none"
             }
@@ -792,7 +816,7 @@
                         },
                         {
                           "type": "text",
-                          "text": "LINE 聯絡",
+                          "text": "聊聊團隊現況",
                           "size": "xxs",
                           "weight": "bold",
                           "color": "#FFFFFF",
@@ -814,7 +838,7 @@
                       "borderColor": "#B27C5A",
                       "action": {
                         "type": "uri",
-                        "label": "LINE 聯絡",
+                        "label": "聊聊團隊現況",
                         "uri": "https://liff.line.me/2011946176-OWaDN0zD?t=1&c=jerrywu&to=line&u=https%3A%2F%2Fline.me%2Fti%2Fp%2F~Jerrywu0907"
                       }
                     },
@@ -855,7 +879,7 @@
                       "action": {
                         "type": "uri",
                         "label": "服務介紹",
-                        "uri": "https://liff.line.me/2011946176-OWaDN0zD?t=1&c=jerrywu&to=services&u=https%3A%2F%2Fjerrywu.cardtaiwan.com%2F%3Fv%3D2026-11-20-2236%23services"
+                        "uri": "https://liff.line.me/2011946176-OWaDN0zD?t=1&c=jerrywu&to=services&u=https%3A%2F%2Fjerrywu.cardtaiwan.com%2F%3Fv%3D2026-11-21-0047%23services"
                       }
                     },
                     {
@@ -895,7 +919,7 @@
                       "action": {
                         "type": "uri",
                         "label": "關於 Jerry",
-                        "uri": "https://liff.line.me/2011946176-OWaDN0zD?t=1&c=jerrywu&to=about&u=https%3A%2F%2Fjerrywu.cardtaiwan.com%2F%3Fv%3D2026-11-20-2236%23about"
+                        "uri": "https://liff.line.me/2011946176-OWaDN0zD?t=1&c=jerrywu&to=about&u=https%3A%2F%2Fjerrywu.cardtaiwan.com%2F%3Fv%3D2026-11-21-0047%23about"
                       }
                     }
                   ],
@@ -903,50 +927,58 @@
                 },
                 {
                   "type": "box",
-                  "layout": "horizontal",
+                  "layout": "vertical",
                   "contents": [
                     {
                       "type": "box",
-                      "layout": "vertical",
+                      "layout": "horizontal",
                       "contents": [
                         {
-                          "type": "image",
-                          "url": "https://jerrywu.cardtaiwan.com/img/icon-share-v6.png",
-                          "size": "20px",
-                          "aspectRatio": "1:1",
-                          "aspectMode": "cover",
-                          "flex": 0
-                        },
-                        {
-                          "type": "text",
-                          "text": "分享名片",
-                          "size": "xxs",
-                          "weight": "bold",
-                          "color": "#243447",
-                          "wrap": true,
-                          "align": "center"
+                          "type": "box",
+                          "layout": "vertical",
+                          "contents": [
+                            {
+                              "type": "image",
+                              "url": "https://jerrywu.cardtaiwan.com/img/icon-share-v6.png",
+                              "size": "20px",
+                              "aspectRatio": "1:1",
+                              "aspectMode": "cover",
+                              "flex": 0
+                            },
+                            {
+                              "type": "text",
+                              "text": "分享名片",
+                              "size": "xxs",
+                              "weight": "bold",
+                              "color": "#243447",
+                              "wrap": true,
+                              "align": "center"
+                            }
+                          ],
+                          "spacing": "xs",
+                          "paddingAll": "8px",
+                          "background": {
+                            "type": "linearGradient",
+                            "angle": "90deg",
+                            "startColor": "#EFEAE1",
+                            "endColor": "#E4DDD1"
+                          },
+                          "cornerRadius": "100px",
+                          "flex": 0,
+                          "borderWidth": "1px",
+                          "borderColor": "#C2CAD6",
+                          "action": {
+                            "type": "uri",
+                            "label": "分享名片",
+                            "uri": "https://liff.line.me/2011946176-OWaDN0zD?share=1&c=jerrywu&src=https%3A%2F%2Fjerrywu.cardtaiwan.com%2Fflex-cards.json&v=2026-11-21-0047"
+                          }
                         }
                       ],
-                      "spacing": "xs",
-                      "paddingAll": "8px",
-                      "background": {
-                        "type": "linearGradient",
-                        "angle": "90deg",
-                        "startColor": "#EFEAE1",
-                        "endColor": "#E4DDD1"
-                      },
-                      "cornerRadius": "100px",
-                      "flex": 1,
-                      "borderWidth": "1px",
-                      "borderColor": "#C2CAD6",
-                      "action": {
-                        "type": "uri",
-                        "label": "分享名片",
-                        "uri": "https://liff.line.me/2011946176-OWaDN0zD?share=1&c=jerrywu&src=https%3A%2F%2Fjerrywu.cardtaiwan.com%2Fflex-cards.json&v=2026-11-20-2236"
-                      }
+                      "spacing": "sm"
                     }
                   ],
-                  "spacing": "sm"
+                  "spacing": "none",
+                  "alignItems": "center"
                 }
               ],
               "spacing": "sm"
@@ -957,14 +989,14 @@
         },
         "hero": {
           "type": "image",
-          "url": "https://jerrywu.cardtaiwan.com/img/card4-v11.jpg",
+          "url": "https://jerrywu.cardtaiwan.com/img/card4-v12.jpg",
           "size": "full",
           "aspectRatio": "3:4",
           "aspectMode": "cover",
           "action": {
             "type": "uri",
             "label": "開啟名片",
-            "uri": "https://liff.line.me/2011946176-OWaDN0zD?t=1&c=jerrywu&to=page&u=https%3A%2F%2Fjerrywu.cardtaiwan.com%2F%3Fv%3D2026-11-20-2236"
+            "uri": "https://liff.line.me/2011946176-OWaDN0zD?t=1&c=jerrywu&to=page&u=https%3A%2F%2Fjerrywu.cardtaiwan.com%2F%3Fv%3D2026-11-21-0047"
           }
         }
       },
@@ -985,10 +1017,10 @@
           "contents": [
             {
               "type": "text",
-              "text": "先找出卡點 → 選定優先改變 → 進入現場推進",
+              "text": "接下來，我們怎麼開始",
               "size": "xxs",
               "weight": "regular",
-              "color": "#A3AEBD",
+              "color": "#E0E4E9",
               "wrap": true,
               "margin": "none"
             }
@@ -1033,7 +1065,7 @@
                         },
                         {
                           "type": "text",
-                          "text": "LINE 聯絡",
+                          "text": "聊聊團隊現況",
                           "size": "xxs",
                           "weight": "bold",
                           "color": "#FFFFFF",
@@ -1055,7 +1087,7 @@
                       "borderColor": "#B27C5A",
                       "action": {
                         "type": "uri",
-                        "label": "LINE 聯絡",
+                        "label": "聊聊團隊現況",
                         "uri": "https://liff.line.me/2011946176-OWaDN0zD?t=1&c=jerrywu&to=line&u=https%3A%2F%2Fline.me%2Fti%2Fp%2F~Jerrywu0907"
                       }
                     },
@@ -1096,7 +1128,7 @@
                       "action": {
                         "type": "uri",
                         "label": "服務介紹",
-                        "uri": "https://liff.line.me/2011946176-OWaDN0zD?t=1&c=jerrywu&to=services&u=https%3A%2F%2Fjerrywu.cardtaiwan.com%2F%3Fv%3D2026-11-20-2236%23services"
+                        "uri": "https://liff.line.me/2011946176-OWaDN0zD?t=1&c=jerrywu&to=services&u=https%3A%2F%2Fjerrywu.cardtaiwan.com%2F%3Fv%3D2026-11-21-0047%23services"
                       }
                     },
                     {
@@ -1136,7 +1168,7 @@
                       "action": {
                         "type": "uri",
                         "label": "關於 Jerry",
-                        "uri": "https://liff.line.me/2011946176-OWaDN0zD?t=1&c=jerrywu&to=about&u=https%3A%2F%2Fjerrywu.cardtaiwan.com%2F%3Fv%3D2026-11-20-2236%23about"
+                        "uri": "https://liff.line.me/2011946176-OWaDN0zD?t=1&c=jerrywu&to=about&u=https%3A%2F%2Fjerrywu.cardtaiwan.com%2F%3Fv%3D2026-11-21-0047%23about"
                       }
                     }
                   ],
@@ -1144,50 +1176,58 @@
                 },
                 {
                   "type": "box",
-                  "layout": "horizontal",
+                  "layout": "vertical",
                   "contents": [
                     {
                       "type": "box",
-                      "layout": "vertical",
+                      "layout": "horizontal",
                       "contents": [
                         {
-                          "type": "image",
-                          "url": "https://jerrywu.cardtaiwan.com/img/icon-share-v6.png",
-                          "size": "20px",
-                          "aspectRatio": "1:1",
-                          "aspectMode": "cover",
-                          "flex": 0
-                        },
-                        {
-                          "type": "text",
-                          "text": "分享名片",
-                          "size": "xxs",
-                          "weight": "bold",
-                          "color": "#243447",
-                          "wrap": true,
-                          "align": "center"
+                          "type": "box",
+                          "layout": "vertical",
+                          "contents": [
+                            {
+                              "type": "image",
+                              "url": "https://jerrywu.cardtaiwan.com/img/icon-share-v6.png",
+                              "size": "20px",
+                              "aspectRatio": "1:1",
+                              "aspectMode": "cover",
+                              "flex": 0
+                            },
+                            {
+                              "type": "text",
+                              "text": "分享名片",
+                              "size": "xxs",
+                              "weight": "bold",
+                              "color": "#243447",
+                              "wrap": true,
+                              "align": "center"
+                            }
+                          ],
+                          "spacing": "xs",
+                          "paddingAll": "8px",
+                          "background": {
+                            "type": "linearGradient",
+                            "angle": "90deg",
+                            "startColor": "#EFEAE1",
+                            "endColor": "#E4DDD1"
+                          },
+                          "cornerRadius": "100px",
+                          "flex": 0,
+                          "borderWidth": "1px",
+                          "borderColor": "#C2CAD6",
+                          "action": {
+                            "type": "uri",
+                            "label": "分享名片",
+                            "uri": "https://liff.line.me/2011946176-OWaDN0zD?share=1&c=jerrywu&src=https%3A%2F%2Fjerrywu.cardtaiwan.com%2Fflex-cards.json&v=2026-11-21-0047"
+                          }
                         }
                       ],
-                      "spacing": "xs",
-                      "paddingAll": "8px",
-                      "background": {
-                        "type": "linearGradient",
-                        "angle": "90deg",
-                        "startColor": "#EFEAE1",
-                        "endColor": "#E4DDD1"
-                      },
-                      "cornerRadius": "100px",
-                      "flex": 1,
-                      "borderWidth": "1px",
-                      "borderColor": "#C2CAD6",
-                      "action": {
-                        "type": "uri",
-                        "label": "分享名片",
-                        "uri": "https://liff.line.me/2011946176-OWaDN0zD?share=1&c=jerrywu&src=https%3A%2F%2Fjerrywu.cardtaiwan.com%2Fflex-cards.json&v=2026-11-20-2236"
-                      }
+                      "spacing": "sm"
                     }
                   ],
-                  "spacing": "sm"
+                  "spacing": "none",
+                  "alignItems": "center"
                 }
               ],
               "spacing": "sm"
@@ -1198,14 +1238,14 @@
         },
         "hero": {
           "type": "image",
-          "url": "https://jerrywu.cardtaiwan.com/img/card5-v16.jpg",
+          "url": "https://jerrywu.cardtaiwan.com/img/card5-v17.jpg",
           "size": "full",
           "aspectRatio": "3:4",
           "aspectMode": "cover",
           "action": {
             "type": "uri",
             "label": "開啟名片",
-            "uri": "https://liff.line.me/2011946176-OWaDN0zD?t=1&c=jerrywu&to=page&u=https%3A%2F%2Fjerrywu.cardtaiwan.com%2F%3Fv%3D2026-11-20-2236"
+            "uri": "https://liff.line.me/2011946176-OWaDN0zD?t=1&c=jerrywu&to=page&u=https%3A%2F%2Fjerrywu.cardtaiwan.com%2F%3Fv%3D2026-11-21-0047"
           }
         }
       },
@@ -1241,54 +1281,6 @@
               "color": "#4A5468",
               "wrap": true,
               "margin": "xs"
-            },
-            {
-              "type": "box",
-              "layout": "horizontal",
-              "contents": [
-                {
-                  "type": "box",
-                  "layout": "vertical",
-                  "contents": [
-                    {
-                      "type": "image",
-                      "url": "https://jerrywu.cardtaiwan.com/img/icon-line-v5.png",
-                      "size": "20px",
-                      "aspectRatio": "1:1",
-                      "aspectMode": "cover",
-                      "flex": 0
-                    },
-                    {
-                      "type": "text",
-                      "text": "聊聊團隊現況",
-                      "size": "xxs",
-                      "weight": "bold",
-                      "color": "#FFFFFF",
-                      "wrap": true,
-                      "align": "center"
-                    }
-                  ],
-                  "spacing": "xs",
-                  "paddingAll": "10px",
-                  "background": {
-                    "type": "linearGradient",
-                    "angle": "90deg",
-                    "startColor": "#A3633A",
-                    "endColor": "#8F5630"
-                  },
-                  "cornerRadius": "100px",
-                  "flex": 1,
-                  "borderWidth": "1px",
-                  "borderColor": "#B27C5A",
-                  "action": {
-                    "type": "uri",
-                    "label": "聊聊團隊現況",
-                    "uri": "https://liff.line.me/2011946176-OWaDN0zD?t=1&c=jerrywu&to=line&u=https%3A%2F%2Fline.me%2Fti%2Fp%2F~Jerrywu0907"
-                  }
-                }
-              ],
-              "spacing": "none",
-              "margin": "md"
             },
             {
               "type": "text",
@@ -1470,7 +1462,7 @@
                         },
                         {
                           "type": "text",
-                          "text": "LINE 聯絡",
+                          "text": "聊聊團隊現況",
                           "size": "xxs",
                           "weight": "bold",
                           "color": "#FFFFFF",
@@ -1492,7 +1484,7 @@
                       "borderColor": "#B27C5A",
                       "action": {
                         "type": "uri",
-                        "label": "LINE 聯絡",
+                        "label": "聊聊團隊現況",
                         "uri": "https://liff.line.me/2011946176-OWaDN0zD?t=1&c=jerrywu&to=line&u=https%3A%2F%2Fline.me%2Fti%2Fp%2F~Jerrywu0907"
                       }
                     },
@@ -1533,7 +1525,7 @@
                       "action": {
                         "type": "uri",
                         "label": "服務介紹",
-                        "uri": "https://liff.line.me/2011946176-OWaDN0zD?t=1&c=jerrywu&to=services&u=https%3A%2F%2Fjerrywu.cardtaiwan.com%2F%3Fv%3D2026-11-20-2236%23services"
+                        "uri": "https://liff.line.me/2011946176-OWaDN0zD?t=1&c=jerrywu&to=services&u=https%3A%2F%2Fjerrywu.cardtaiwan.com%2F%3Fv%3D2026-11-21-0047%23services"
                       }
                     },
                     {
@@ -1573,7 +1565,7 @@
                       "action": {
                         "type": "uri",
                         "label": "關於 Jerry",
-                        "uri": "https://liff.line.me/2011946176-OWaDN0zD?t=1&c=jerrywu&to=about&u=https%3A%2F%2Fjerrywu.cardtaiwan.com%2F%3Fv%3D2026-11-20-2236%23about"
+                        "uri": "https://liff.line.me/2011946176-OWaDN0zD?t=1&c=jerrywu&to=about&u=https%3A%2F%2Fjerrywu.cardtaiwan.com%2F%3Fv%3D2026-11-21-0047%23about"
                       }
                     }
                   ],
@@ -1581,50 +1573,58 @@
                 },
                 {
                   "type": "box",
-                  "layout": "horizontal",
+                  "layout": "vertical",
                   "contents": [
                     {
                       "type": "box",
-                      "layout": "vertical",
+                      "layout": "horizontal",
                       "contents": [
                         {
-                          "type": "image",
-                          "url": "https://jerrywu.cardtaiwan.com/img/icon-share-v6.png",
-                          "size": "20px",
-                          "aspectRatio": "1:1",
-                          "aspectMode": "cover",
-                          "flex": 0
-                        },
-                        {
-                          "type": "text",
-                          "text": "分享名片",
-                          "size": "xxs",
-                          "weight": "bold",
-                          "color": "#243447",
-                          "wrap": true,
-                          "align": "center"
+                          "type": "box",
+                          "layout": "vertical",
+                          "contents": [
+                            {
+                              "type": "image",
+                              "url": "https://jerrywu.cardtaiwan.com/img/icon-share-v6.png",
+                              "size": "20px",
+                              "aspectRatio": "1:1",
+                              "aspectMode": "cover",
+                              "flex": 0
+                            },
+                            {
+                              "type": "text",
+                              "text": "分享名片",
+                              "size": "xxs",
+                              "weight": "bold",
+                              "color": "#243447",
+                              "wrap": true,
+                              "align": "center"
+                            }
+                          ],
+                          "spacing": "xs",
+                          "paddingAll": "8px",
+                          "background": {
+                            "type": "linearGradient",
+                            "angle": "90deg",
+                            "startColor": "#EFEAE1",
+                            "endColor": "#E4DDD1"
+                          },
+                          "cornerRadius": "100px",
+                          "flex": 0,
+                          "borderWidth": "1px",
+                          "borderColor": "#C2CAD6",
+                          "action": {
+                            "type": "uri",
+                            "label": "分享名片",
+                            "uri": "https://liff.line.me/2011946176-OWaDN0zD?share=1&c=jerrywu&src=https%3A%2F%2Fjerrywu.cardtaiwan.com%2Fflex-cards.json&v=2026-11-21-0047"
+                          }
                         }
                       ],
-                      "spacing": "xs",
-                      "paddingAll": "8px",
-                      "background": {
-                        "type": "linearGradient",
-                        "angle": "90deg",
-                        "startColor": "#EFEAE1",
-                        "endColor": "#E4DDD1"
-                      },
-                      "cornerRadius": "100px",
-                      "flex": 1,
-                      "borderWidth": "1px",
-                      "borderColor": "#C2CAD6",
-                      "action": {
-                        "type": "uri",
-                        "label": "分享名片",
-                        "uri": "https://liff.line.me/2011946176-OWaDN0zD?share=1&c=jerrywu&src=https%3A%2F%2Fjerrywu.cardtaiwan.com%2Fflex-cards.json&v=2026-11-20-2236"
-                      }
+                      "spacing": "sm"
                     }
                   ],
-                  "spacing": "sm"
+                  "spacing": "none",
+                  "alignItems": "center"
                 }
               ],
               "spacing": "sm"
