@@ -26,7 +26,7 @@
             },
             {
               "type": "text",
-              "text": "· 吳伯謙 Jerry Wu｜企業經營與組織成長教練\n· 讓經營不再只靠一個人，讓成長成為一群人的能力",
+              "text": "· 吳伯謙 Jerry Wu｜企業教練\n· 讓經營不再只靠一個人，讓成長成為一群人的能力",
               "size": "xs",
               "weight": "regular",
               "color": "#A3AEBD",
@@ -46,7 +46,7 @@
               "contents": [
                 {
                   "type": "text",
-                  "text": "加 LINE 聊聊",
+                  "text": "聊聊團隊現況",
                   "size": "xs",
                   "weight": "bold",
                   "color": "#FFFFFF",
@@ -60,7 +60,7 @@
               "cornerRadius": "100px",
               "action": {
                 "type": "uri",
-                "label": "加 LINE 聊聊",
+                "label": "聊聊團隊現況",
                 "uri": "https://liff.line.me/2011946176-OWaDN0zD?t=1&c=jerrywu&to=line&u=https%3A%2F%2Fline.me%2Fti%2Fp%2F~Jerrywu0907"
               }
             }
@@ -83,7 +83,7 @@
           "contents": [
             {
               "type": "text",
-              "text": "我專為誰服務",
+              "text": "公司想往前，卻什麼都得靠你？",
               "size": "sm",
               "weight": "bold",
               "color": "#FFFFFF",
@@ -92,7 +92,7 @@
             },
             {
               "type": "text",
-              "text": "· 我專為誰服務\n· 成長型企業主｜多據點經營者｜創辦人｜核心主管｜二代接班人\n· 什麼事都要問我，沒有時間想下一步\n· 人變多了，我反而更累\n· 想交棒，卻沒有人接得住\n· 有目標、有策略，執行還是卡關",
+              "text": "· 公司想往前，卻什麼都得靠你？\n· 人變多了，你卻更忙。\n· 方向有了，團隊卻推不動。\n· 想放手了，卻沒有人接得住。",
               "size": "xs",
               "weight": "regular",
               "color": "#A3AEBD",
@@ -112,7 +112,7 @@
               "contents": [
                 {
                   "type": "text",
-                  "text": "加 LINE 聊聊",
+                  "text": "聊聊團隊現況",
                   "size": "xs",
                   "weight": "bold",
                   "color": "#FFFFFF",
@@ -126,7 +126,7 @@
               "cornerRadius": "100px",
               "action": {
                 "type": "uri",
-                "label": "加 LINE 聊聊",
+                "label": "聊聊團隊現況",
                 "uri": "https://liff.line.me/2011946176-OWaDN0zD?t=1&c=jerrywu&to=line&u=https%3A%2F%2Fline.me%2Fti%2Fp%2F~Jerrywu0907"
               }
             }
@@ -149,7 +149,7 @@
           "contents": [
             {
               "type": "text",
-              "text": "我能為你做什麼",
+              "text": "一起把這三件事做起來",
               "size": "sm",
               "weight": "bold",
               "color": "#FFFFFF",
@@ -158,7 +158,7 @@
             },
             {
               "type": "text",
-              "text": "· 我能為你做什麼\n· 經營者陪跑 釐清方向與優先順序\n· 主管與團隊培養 權責、授權與溝通\n· 業務團隊訓練 需求探索到成交追蹤\n· 轉型與接班陪跑 角色轉換與跨代共識",
+              "text": "· 一起把這三件事做起來\n· 方向清楚 釐清優先順序，轉成團隊能執行的目標\n· 主管扛責 建立分工、授權與追蹤機制\n· 團隊能動 透過實際任務與定期檢核改善協作",
               "size": "xs",
               "weight": "regular",
               "color": "#A3AEBD",
@@ -178,7 +178,7 @@
               "contents": [
                 {
                   "type": "text",
-                  "text": "加 LINE 聊聊",
+                  "text": "聊聊團隊現況",
                   "size": "xs",
                   "weight": "bold",
                   "color": "#FFFFFF",
@@ -192,7 +192,7 @@
               "cornerRadius": "100px",
               "action": {
                 "type": "uri",
-                "label": "加 LINE 聊聊",
+                "label": "聊聊團隊現況",
                 "uri": "https://liff.line.me/2011946176-OWaDN0zD?t=1&c=jerrywu&to=line&u=https%3A%2F%2Fline.me%2Fti%2Fp%2F~Jerrywu0907"
               }
             }
@@ -215,7 +215,7 @@
           "contents": [
             {
               "type": "text",
-              "text": "為什麼選擇 Jerry？",
+              "text": "從老闆扛事，開始走向團隊承擔",
               "size": "sm",
               "weight": "bold",
               "color": "#FFFFFF",
@@ -224,7 +224,7 @@
             },
             {
               "type": "text",
-              "text": "· 為什麼選擇 Jerry？\n· 懂經營，也看見人的問題\n· 從策略走進現場\n· 把能力留在團隊",
+              "text": "· 從老闆扛事，開始走向團隊承擔\n· 醫療服務團隊｜組織成長陪伴案例\n· 原本卡住 營運高度依賴經營者\n· 我如何介入 主管一對一、目標拆解、每週檢核\n· 目前進展 〔待填〕",
               "size": "xs",
               "weight": "regular",
               "color": "#A3AEBD",
@@ -244,7 +244,7 @@
               "contents": [
                 {
                   "type": "text",
-                  "text": "加 LINE 聊聊",
+                  "text": "聊聊團隊現況",
                   "size": "xs",
                   "weight": "bold",
                   "color": "#FFFFFF",
@@ -258,7 +258,7 @@
               "cornerRadius": "100px",
               "action": {
                 "type": "uri",
-                "label": "加 LINE 聊聊",
+                "label": "聊聊團隊現況",
                 "uri": "https://liff.line.me/2011946176-OWaDN0zD?t=1&c=jerrywu&to=line&u=https%3A%2F%2Fline.me%2Fti%2Fp%2F~Jerrywu0907"
               }
             }
@@ -281,7 +281,7 @@
           "contents": [
             {
               "type": "text",
-              "text": "服務流程",
+              "text": "我們怎麼開始？",
               "size": "sm",
               "weight": "bold",
               "color": "#FFFFFF",
@@ -290,7 +290,7 @@
             },
             {
               "type": "text",
-              "text": "· 服務流程\n· 釐清現況 → 對齊目標 → 設計行動 → 現場陪跑 → 檢核調整",
+              "text": "· 我們怎麼開始？\n· 先找出卡點 → 選定優先改變 → 進入現場推進",
               "size": "xs",
               "weight": "regular",
               "color": "#A3AEBD",
@@ -310,7 +310,7 @@
               "contents": [
                 {
                   "type": "text",
-                  "text": "加 LINE 聊聊",
+                  "text": "聊聊團隊現況",
                   "size": "xs",
                   "weight": "bold",
                   "color": "#FFFFFF",
@@ -324,7 +324,7 @@
               "cornerRadius": "100px",
               "action": {
                 "type": "uri",
-                "label": "加 LINE 聊聊",
+                "label": "聊聊團隊現況",
                 "uri": "https://liff.line.me/2011946176-OWaDN0zD?t=1&c=jerrywu&to=line&u=https%3A%2F%2Fline.me%2Fti%2Fp%2F~Jerrywu0907"
               }
             }
@@ -347,7 +347,7 @@
           "contents": [
             {
               "type": "text",
-              "text": "聊聊你現在最卡的一件事",
+              "text": "你最想從哪件事開始放手？",
               "size": "sm",
               "weight": "bold",
               "color": "#FFFFFF",
@@ -356,7 +356,7 @@
             },
             {
               "type": "text",
-              "text": "· 聊聊你現在最卡的一件事\n· 電話 0963-227013\n· LINE Jerrywu0907\n· 台北市松山區（捷運南京三民站）\n· 採預約制",
+              "text": "· 你最想從哪件事開始放手？\n· 告訴我你的產業、團隊人數與最需要你親自處理的一件事\n· 電話 0963-227013\n· Email Jerrywu680907@gmail.com\n· 採預約制",
               "size": "xs",
               "weight": "regular",
               "color": "#A3AEBD",
@@ -376,7 +376,7 @@
               "contents": [
                 {
                   "type": "text",
-                  "text": "加 LINE 聊聊",
+                  "text": "聊聊團隊現況",
                   "size": "xs",
                   "weight": "bold",
                   "color": "#FFFFFF",
@@ -390,7 +390,7 @@
               "cornerRadius": "100px",
               "action": {
                 "type": "uri",
-                "label": "加 LINE 聊聊",
+                "label": "聊聊團隊現況",
                 "uri": "https://liff.line.me/2011946176-OWaDN0zD?t=1&c=jerrywu&to=line&u=https%3A%2F%2Fline.me%2Fti%2Fp%2F~Jerrywu0907"
               }
             }

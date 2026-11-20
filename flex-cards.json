@@ -21,7 +21,7 @@
           "contents": [
             {
               "type": "text",
-              "text": "企業教練 Jerry　讓經營不再只靠一個人，讓成長成為一群人的能力",
+              "text": "讓經營不再只靠一個人，讓成長成為一群人的能力",
               "size": "xxs",
               "weight": "regular",
               "color": "#A3AEBD",
@@ -199,23 +199,17 @@
                           "text": "分享名片",
                           "size": "xxs",
                           "weight": "bold",
-                          "color": "#FFFFFF",
+                          "color": "#5F6674",
                           "wrap": true,
                           "align": "center"
                         }
                       ],
                       "spacing": "xs",
-                      "paddingAll": "10px",
-                      "background": {
-                        "type": "linearGradient",
-                        "angle": "90deg",
-                        "startColor": "#475464",
-                        "endColor": "#1C2937"
-                      },
+                      "paddingAll": "8px",
                       "cornerRadius": "100px",
                       "flex": 1,
                       "borderWidth": "1px",
-                      "borderColor": "#5D6977",
+                      "borderColor": "#C9CFD8",
                       "action": {
                         "type": "uri",
                         "label": "分享名片",
@@ -234,7 +228,7 @@
         },
         "hero": {
           "type": "image",
-          "url": "https://jerrywu.cardtaiwan.com/img/card1-v12.jpg",
+          "url": "https://jerrywu.cardtaiwan.com/img/card1-v13.jpg",
           "size": "full",
           "aspectRatio": "3:4",
           "aspectMode": "cover",
@@ -262,7 +256,7 @@
           "contents": [
             {
               "type": "text",
-              "text": "成長型企業主・多據點經營者・創辦人・核心主管・二代接班人",
+              "text": "人變多了你卻更忙・方向有團隊推不動・想放手沒人接得住",
               "size": "xxs",
               "weight": "regular",
               "color": "#A3AEBD",
@@ -440,23 +434,17 @@
                           "text": "分享名片",
                           "size": "xxs",
                           "weight": "bold",
-                          "color": "#FFFFFF",
+                          "color": "#5F6674",
                           "wrap": true,
                           "align": "center"
                         }
                       ],
                       "spacing": "xs",
-                      "paddingAll": "10px",
-                      "background": {
-                        "type": "linearGradient",
-                        "angle": "90deg",
-                        "startColor": "#475464",
-                        "endColor": "#1C2937"
-                      },
+                      "paddingAll": "8px",
                       "cornerRadius": "100px",
                       "flex": 1,
                       "borderWidth": "1px",
-                      "borderColor": "#5D6977",
+                      "borderColor": "#C9CFD8",
                       "action": {
                         "type": "uri",
                         "label": "分享名片",
@@ -475,7 +463,7 @@
         },
         "hero": {
           "type": "image",
-          "url": "https://jerrywu.cardtaiwan.com/img/card2-v5.jpg",
+          "url": "https://jerrywu.cardtaiwan.com/img/card2-v6.jpg",
           "size": "full",
           "aspectRatio": "3:4",
           "aspectMode": "cover",
@@ -503,7 +491,7 @@
           "contents": [
             {
               "type": "text",
-              "text": "經營者陪跑・主管與團隊培養・業務團隊訓練・轉型接班陪跑",
+              "text": "方向清楚・主管扛責・團隊能動",
               "size": "xxs",
               "weight": "regular",
               "color": "#A3AEBD",
@@ -681,23 +669,17 @@
                           "text": "分享名片",
                           "size": "xxs",
                           "weight": "bold",
-                          "color": "#FFFFFF",
+                          "color": "#5F6674",
                           "wrap": true,
                           "align": "center"
                         }
                       ],
                       "spacing": "xs",
-                      "paddingAll": "10px",
-                      "background": {
-                        "type": "linearGradient",
-                        "angle": "90deg",
-                        "startColor": "#475464",
-                        "endColor": "#1C2937"
-                      },
+                      "paddingAll": "8px",
                       "cornerRadius": "100px",
                       "flex": 1,
                       "borderWidth": "1px",
-                      "borderColor": "#5D6977",
+                      "borderColor": "#C9CFD8",
                       "action": {
                         "type": "uri",
                         "label": "分享名片",
@@ -716,7 +698,7 @@
         },
         "hero": {
           "type": "image",
-          "url": "https://jerrywu.cardtaiwan.com/img/card3-v5.jpg",
+          "url": "https://jerrywu.cardtaiwan.com/img/card3-v6.jpg",
           "size": "full",
           "aspectRatio": "3:4",
           "aspectMode": "cover",
@@ -744,7 +726,7 @@
           "contents": [
             {
               "type": "text",
-              "text": "懂經營，也看見人的問題｜從策略走進現場｜把能力留在團隊",
+              "text": "醫療服務團隊｜組織成長陪伴案例（成果待補）",
               "size": "xxs",
               "weight": "regular",
               "color": "#A3AEBD",
@@ -922,23 +904,17 @@
                           "text": "分享名片",
                           "size": "xxs",
                           "weight": "bold",
-                          "color": "#FFFFFF",
+                          "color": "#5F6674",
                           "wrap": true,
                           "align": "center"
                         }
                       ],
                       "spacing": "xs",
-                      "paddingAll": "10px",
-                      "background": {
-                        "type": "linearGradient",
-                        "angle": "90deg",
-                        "startColor": "#475464",
-                        "endColor": "#1C2937"
-                      },
+                      "paddingAll": "8px",
                       "cornerRadius": "100px",
                       "flex": 1,
                       "borderWidth": "1px",
-                      "borderColor": "#5D6977",
+                      "borderColor": "#C9CFD8",
                       "action": {
                         "type": "uri",
                         "label": "分享名片",
@@ -957,7 +933,7 @@
         },
         "hero": {
           "type": "image",
-          "url": "https://jerrywu.cardtaiwan.com/img/card4-v6.jpg",
+          "url": "https://jerrywu.cardtaiwan.com/img/card4-v7.jpg",
           "size": "full",
           "aspectRatio": "3:4",
           "aspectMode": "cover",
@@ -985,7 +961,7 @@
           "contents": [
             {
               "type": "text",
-              "text": "從釐清現況到檢核調整，五步建立團隊節奏",
+              "text": "先找出卡點 → 選定優先改變 → 進入現場推進",
               "size": "xxs",
               "weight": "regular",
               "color": "#A3AEBD",
@@ -1163,23 +1139,17 @@
                           "text": "分享名片",
                           "size": "xxs",
                           "weight": "bold",
-                          "color": "#FFFFFF",
+                          "color": "#5F6674",
                           "wrap": true,
                           "align": "center"
                         }
                       ],
                       "spacing": "xs",
-                      "paddingAll": "10px",
-                      "background": {
-                        "type": "linearGradient",
-                        "angle": "90deg",
-                        "startColor": "#475464",
-                        "endColor": "#1C2937"
-                      },
+                      "paddingAll": "8px",
                       "cornerRadius": "100px",
                       "flex": 1,
                       "borderWidth": "1px",
-                      "borderColor": "#5D6977",
+                      "borderColor": "#C9CFD8",
                       "action": {
                         "type": "uri",
                         "label": "分享名片",
@@ -1198,7 +1168,7 @@
         },
         "hero": {
           "type": "image",
-          "url": "https://jerrywu.cardtaiwan.com/img/card5-v12.jpg",
+          "url": "https://jerrywu.cardtaiwan.com/img/card5-v13.jpg",
           "size": "full",
           "aspectRatio": "3:4",
           "aspectMode": "cover",
@@ -1226,7 +1196,7 @@
           "contents": [
             {
               "type": "text",
-              "text": "聊聊你現在最卡的一件事",
+              "text": "你最想從哪件事開始放手？",
               "size": "xl",
               "weight": "bold",
               "color": "#243447",
@@ -1235,12 +1205,69 @@
             },
             {
               "type": "text",
-              "text": "先釐清問題，再討論合作方式",
+              "text": "告訴我你的產業、團隊人數，以及目前最需要你親自處理的一件事。",
               "size": "xs",
-              "weight": "bold",
-              "color": "#955A30",
+              "weight": "regular",
+              "color": "#4A5468",
               "wrap": true,
               "margin": "xs"
+            },
+            {
+              "type": "box",
+              "layout": "horizontal",
+              "contents": [
+                {
+                  "type": "box",
+                  "layout": "vertical",
+                  "contents": [
+                    {
+                      "type": "image",
+                      "url": "https://jerrywu.cardtaiwan.com/img/icon-line-v5.png",
+                      "size": "20px",
+                      "aspectRatio": "1:1",
+                      "aspectMode": "cover",
+                      "flex": 0
+                    },
+                    {
+                      "type": "text",
+                      "text": "聊聊團隊現況",
+                      "size": "xxs",
+                      "weight": "bold",
+                      "color": "#FFFFFF",
+                      "wrap": true,
+                      "align": "center"
+                    }
+                  ],
+                  "spacing": "xs",
+                  "paddingAll": "10px",
+                  "background": {
+                    "type": "linearGradient",
+                    "angle": "90deg",
+                    "startColor": "#A3633A",
+                    "endColor": "#8F5630"
+                  },
+                  "cornerRadius": "100px",
+                  "flex": 1,
+                  "borderWidth": "1px",
+                  "borderColor": "#B27C5A",
+                  "action": {
+                    "type": "uri",
+                    "label": "聊聊團隊現況",
+                    "uri": "https://liff.line.me/2011946176-OWaDN0zD?t=1&c=jerrywu&to=line&u=https%3A%2F%2Fline.me%2Fti%2Fp%2F~Jerrywu0907"
+                  }
+                }
+              ],
+              "spacing": "none",
+              "margin": "md"
+            },
+            {
+              "type": "text",
+              "text": "我們先釐清現況，再討論適合的合作方式。",
+              "size": "xxs",
+              "weight": "regular",
+              "color": "#955A30",
+              "wrap": true,
+              "margin": "sm"
             },
             {
               "type": "box",
@@ -1251,19 +1278,18 @@
                   "layout": "horizontal",
                   "contents": [
                     {
-                      "type": "text",
-                      "text": "📞",
-                      "size": "lg",
-                      "weight": "regular",
-                      "color": "#B78B65",
-                      "wrap": false,
-                      "flex": 1
+                      "type": "image",
+                      "url": "https://jerrywu.cardtaiwan.com/img/icon-tel-v1.png",
+                      "size": "16px",
+                      "aspectRatio": "1:1",
+                      "aspectMode": "cover",
+                      "flex": 0
                     },
                     {
                       "type": "text",
                       "text": "0963-227013",
-                      "size": "md",
-                      "weight": "bold",
+                      "size": "sm",
+                      "weight": "regular",
                       "color": "#FFFFFF",
                       "wrap": true,
                       "margin": "none",
@@ -1275,7 +1301,7 @@
                 },
                 {
                   "type": "separator",
-                  "margin": "lg",
+                  "margin": "md",
                   "color": "#3A465C"
                 },
                 {
@@ -1283,19 +1309,18 @@
                   "layout": "horizontal",
                   "contents": [
                     {
-                      "type": "text",
-                      "text": "💬",
-                      "size": "lg",
-                      "weight": "regular",
-                      "color": "#B78B65",
-                      "wrap": false,
-                      "flex": 1
+                      "type": "image",
+                      "url": "https://jerrywu.cardtaiwan.com/img/icon-line-v5.png",
+                      "size": "16px",
+                      "aspectRatio": "1:1",
+                      "aspectMode": "cover",
+                      "flex": 0
                     },
                     {
                       "type": "text",
-                      "text": "Jerrywu0907",
-                      "size": "md",
-                      "weight": "bold",
+                      "text": "LINE　Jerrywu0907",
+                      "size": "sm",
+                      "weight": "regular",
                       "color": "#FFFFFF",
                       "wrap": true,
                       "margin": "none",
@@ -1307,7 +1332,7 @@
                 },
                 {
                   "type": "separator",
-                  "margin": "lg",
+                  "margin": "md",
                   "color": "#3A465C"
                 },
                 {
@@ -1315,13 +1340,12 @@
                   "layout": "horizontal",
                   "contents": [
                     {
-                      "type": "text",
-                      "text": "✉️",
-                      "size": "lg",
-                      "weight": "regular",
-                      "color": "#B78B65",
-                      "wrap": false,
-                      "flex": 1
+                      "type": "image",
+                      "url": "https://jerrywu.cardtaiwan.com/img/icon-mail-v1.png",
+                      "size": "16px",
+                      "aspectRatio": "1:1",
+                      "aspectMode": "cover",
+                      "flex": 0
                     },
                     {
                       "type": "text",
@@ -1339,7 +1363,7 @@
                 },
                 {
                   "type": "separator",
-                  "margin": "lg",
+                  "margin": "md",
                   "color": "#3A465C"
                 },
                 {
@@ -1347,50 +1371,17 @@
                   "layout": "horizontal",
                   "contents": [
                     {
-                      "type": "text",
-                      "text": "📍",
-                      "size": "lg",
-                      "weight": "regular",
-                      "color": "#B78B65",
-                      "wrap": false,
-                      "flex": 1
-                    },
-                    {
-                      "type": "text",
-                      "text": "台北市松山區（捷運南京三民站）",
-                      "size": "md",
-                      "weight": "regular",
-                      "color": "#FFFFFF",
-                      "wrap": true,
-                      "margin": "none",
-                      "flex": 7
-                    }
-                  ],
-                  "spacing": "sm",
-                  "margin": "none"
-                },
-                {
-                  "type": "separator",
-                  "margin": "lg",
-                  "color": "#3A465C"
-                },
-                {
-                  "type": "box",
-                  "layout": "horizontal",
-                  "contents": [
-                    {
-                      "type": "text",
-                      "text": "⏰",
-                      "size": "lg",
-                      "weight": "regular",
-                      "color": "#B78B65",
-                      "wrap": false,
-                      "flex": 1
+                      "type": "image",
+                      "url": "https://jerrywu.cardtaiwan.com/img/icon-clock-v1.png",
+                      "size": "16px",
+                      "aspectRatio": "1:1",
+                      "aspectMode": "cover",
+                      "flex": 0
                     },
                     {
                       "type": "text",
                       "text": "採預約制",
-                      "size": "md",
+                      "size": "sm",
                       "weight": "regular",
                       "color": "#FFFFFF",
                       "wrap": true,
@@ -1404,57 +1395,9 @@
               ],
               "spacing": "none",
               "margin": "md",
-              "paddingAll": "14px",
+              "paddingAll": "12px",
               "backgroundColor": "#243447",
               "cornerRadius": "20px"
-            },
-            {
-              "type": "box",
-              "layout": "horizontal",
-              "contents": [
-                {
-                  "type": "box",
-                  "layout": "vertical",
-                  "contents": [
-                    {
-                      "type": "image",
-                      "url": "https://jerrywu.cardtaiwan.com/img/icon-tel-v1.png",
-                      "size": "20px",
-                      "aspectRatio": "1:1",
-                      "aspectMode": "cover",
-                      "flex": 0
-                    },
-                    {
-                      "type": "text",
-                      "text": "撥打電話",
-                      "size": "xxs",
-                      "weight": "bold",
-                      "color": "#FFFFFF",
-                      "wrap": true,
-                      "align": "center"
-                    }
-                  ],
-                  "spacing": "xs",
-                  "paddingAll": "10px",
-                  "background": {
-                    "type": "linearGradient",
-                    "angle": "90deg",
-                    "startColor": "#475464",
-                    "endColor": "#1C2937"
-                  },
-                  "cornerRadius": "100px",
-                  "flex": 1,
-                  "borderWidth": "1px",
-                  "borderColor": "#5D6977",
-                  "action": {
-                    "type": "uri",
-                    "label": "撥打電話",
-                    "uri": "https://liff.line.me/2011946176-OWaDN0zD?t=1&c=jerrywu&to=tel&u=tel%3A%2B886963227013"
-                  }
-                }
-              ],
-              "spacing": "sm",
-              "margin": "md"
             }
           ],
           "spacing": "lg",
@@ -1627,23 +1570,17 @@
                           "text": "分享名片",
                           "size": "xxs",
                           "weight": "bold",
-                          "color": "#FFFFFF",
+                          "color": "#5F6674",
                           "wrap": true,
                           "align": "center"
                         }
                       ],
                       "spacing": "xs",
-                      "paddingAll": "10px",
-                      "background": {
-                        "type": "linearGradient",
-                        "angle": "90deg",
-                        "startColor": "#475464",
-                        "endColor": "#1C2937"
-                      },
+                      "paddingAll": "8px",
                       "cornerRadius": "100px",
                       "flex": 1,
                       "borderWidth": "1px",
-                      "borderColor": "#5D6977",
+                      "borderColor": "#C9CFD8",
                       "action": {
                         "type": "uri",
                         "label": "分享名片",
