@@ -188,7 +188,7 @@
                       "contents": [
                         {
                           "type": "image",
-                          "url": "https://jerrywu.cardtaiwan.com/img/icon-share-v5.png",
+                          "url": "https://jerrywu.cardtaiwan.com/img/icon-share-v6.png",
                           "size": "20px",
                           "aspectRatio": "1:1",
                           "aspectMode": "cover",
@@ -199,17 +199,23 @@
                           "text": "分享名片",
                           "size": "xxs",
                           "weight": "bold",
-                          "color": "#5F6674",
+                          "color": "#243447",
                           "wrap": true,
                           "align": "center"
                         }
                       ],
                       "spacing": "xs",
                       "paddingAll": "8px",
+                      "background": {
+                        "type": "linearGradient",
+                        "angle": "90deg",
+                        "startColor": "#EFEAE1",
+                        "endColor": "#E4DDD1"
+                      },
                       "cornerRadius": "100px",
                       "flex": 1,
                       "borderWidth": "1px",
-                      "borderColor": "#C9CFD8",
+                      "borderColor": "#C2CAD6",
                       "action": {
                         "type": "uri",
                         "label": "分享名片",
@@ -423,7 +429,7 @@
                       "contents": [
                         {
                           "type": "image",
-                          "url": "https://jerrywu.cardtaiwan.com/img/icon-share-v5.png",
+                          "url": "https://jerrywu.cardtaiwan.com/img/icon-share-v6.png",
                           "size": "20px",
                           "aspectRatio": "1:1",
                           "aspectMode": "cover",
@@ -434,17 +440,23 @@
                           "text": "分享名片",
                           "size": "xxs",
                           "weight": "bold",
-                          "color": "#5F6674",
+                          "color": "#243447",
                           "wrap": true,
                           "align": "center"
                         }
                       ],
                       "spacing": "xs",
                       "paddingAll": "8px",
+                      "background": {
+                        "type": "linearGradient",
+                        "angle": "90deg",
+                        "startColor": "#EFEAE1",
+                        "endColor": "#E4DDD1"
+                      },
                       "cornerRadius": "100px",
                       "flex": 1,
                       "borderWidth": "1px",
-                      "borderColor": "#C9CFD8",
+                      "borderColor": "#C2CAD6",
                       "action": {
                         "type": "uri",
                         "label": "分享名片",
@@ -658,7 +670,7 @@
                       "contents": [
                         {
                           "type": "image",
-                          "url": "https://jerrywu.cardtaiwan.com/img/icon-share-v5.png",
+                          "url": "https://jerrywu.cardtaiwan.com/img/icon-share-v6.png",
                           "size": "20px",
                           "aspectRatio": "1:1",
                           "aspectMode": "cover",
@@ -669,17 +681,23 @@
                           "text": "分享名片",
                           "size": "xxs",
                           "weight": "bold",
-                          "color": "#5F6674",
+                          "color": "#243447",
                           "wrap": true,
                           "align": "center"
                         }
                       ],
                       "spacing": "xs",
                       "paddingAll": "8px",
+                      "background": {
+                        "type": "linearGradient",
+                        "angle": "90deg",
+                        "startColor": "#EFEAE1",
+                        "endColor": "#E4DDD1"
+                      },
                       "cornerRadius": "100px",
                       "flex": 1,
                       "borderWidth": "1px",
-                      "borderColor": "#C9CFD8",
+                      "borderColor": "#C2CAD6",
                       "action": {
                         "type": "uri",
                         "label": "分享名片",
@@ -893,7 +911,7 @@
                       "contents": [
                         {
                           "type": "image",
-                          "url": "https://jerrywu.cardtaiwan.com/img/icon-share-v5.png",
+                          "url": "https://jerrywu.cardtaiwan.com/img/icon-share-v6.png",
                           "size": "20px",
                           "aspectRatio": "1:1",
                           "aspectMode": "cover",
@@ -904,17 +922,23 @@
                           "text": "分享名片",
                           "size": "xxs",
                           "weight": "bold",
-                          "color": "#5F6674",
+                          "color": "#243447",
                           "wrap": true,
                           "align": "center"
                         }
                       ],
                       "spacing": "xs",
                       "paddingAll": "8px",
+                      "background": {
+                        "type": "linearGradient",
+                        "angle": "90deg",
+                        "startColor": "#EFEAE1",
+                        "endColor": "#E4DDD1"
+                      },
                       "cornerRadius": "100px",
                       "flex": 1,
                       "borderWidth": "1px",
-                      "borderColor": "#C9CFD8",
+                      "borderColor": "#C2CAD6",
                       "action": {
                         "type": "uri",
                         "label": "分享名片",
@@ -1128,7 +1152,7 @@
                       "contents": [
                         {
                           "type": "image",
-                          "url": "https://jerrywu.cardtaiwan.com/img/icon-share-v5.png",
+                          "url": "https://jerrywu.cardtaiwan.com/img/icon-share-v6.png",
                           "size": "20px",
                           "aspectRatio": "1:1",
                           "aspectMode": "cover",
@@ -1139,17 +1163,23 @@
                           "text": "分享名片",
                           "size": "xxs",
                           "weight": "bold",
-                          "color": "#5F6674",
+                          "color": "#243447",
                           "wrap": true,
                           "align": "center"
                         }
                       ],
                       "spacing": "xs",
                       "paddingAll": "8px",
+                      "background": {
+                        "type": "linearGradient",
+                        "angle": "90deg",
+                        "startColor": "#EFEAE1",
+                        "endColor": "#E4DDD1"
+                      },
                       "cornerRadius": "100px",
                       "flex": 1,
                       "borderWidth": "1px",
-                      "borderColor": "#C9CFD8",
+                      "borderColor": "#C2CAD6",
                       "action": {
                         "type": "uri",
                         "label": "分享名片",
@@ -1559,7 +1589,7 @@
                       "contents": [
                         {
                           "type": "image",
-                          "url": "https://jerrywu.cardtaiwan.com/img/icon-share-v5.png",
+                          "url": "https://jerrywu.cardtaiwan.com/img/icon-share-v6.png",
                           "size": "20px",
                           "aspectRatio": "1:1",
                           "aspectMode": "cover",
@@ -1570,17 +1600,23 @@
                           "text": "分享名片",
                           "size": "xxs",
                           "weight": "bold",
-                          "color": "#5F6674",
+                          "color": "#243447",
                           "wrap": true,
                           "align": "center"
                         }
                       ],
                       "spacing": "xs",
                       "paddingAll": "8px",
+                      "background": {
+                        "type": "linearGradient",
+                        "angle": "90deg",
+                        "startColor": "#EFEAE1",
+                        "endColor": "#E4DDD1"
+                      },
                       "cornerRadius": "100px",
                       "flex": 1,
                       "borderWidth": "1px",
-                      "borderColor": "#C9CFD8",
+                      "borderColor": "#C2CAD6",
                       "action": {
                         "type": "uri",
                         "label": "分享名片",
