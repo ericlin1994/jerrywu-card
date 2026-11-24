@@ -8,7 +8,7 @@
         "type": "bubble",
         "styles": {
           "body": {
-            "backgroundColor": "#243447"
+            "backgroundColor": "#0E2440"
           }
         },
         "body": {
@@ -67,14 +67,14 @@
           ],
           "spacing": "none",
           "paddingAll": "12px",
-          "backgroundColor": "#243447"
+          "backgroundColor": "#0E2440"
         }
       },
       {
         "type": "bubble",
         "styles": {
           "body": {
-            "backgroundColor": "#243447"
+            "backgroundColor": "#0E2440"
           }
         },
         "body": {
@@ -133,14 +133,14 @@
           ],
           "spacing": "none",
           "paddingAll": "12px",
-          "backgroundColor": "#243447"
+          "backgroundColor": "#0E2440"
         }
       },
       {
         "type": "bubble",
         "styles": {
           "body": {
-            "backgroundColor": "#243447"
+            "backgroundColor": "#0E2440"
           }
         },
         "body": {
@@ -199,14 +199,14 @@
           ],
           "spacing": "none",
           "paddingAll": "12px",
-          "backgroundColor": "#243447"
+          "backgroundColor": "#0E2440"
         }
       },
       {
         "type": "bubble",
         "styles": {
           "body": {
-            "backgroundColor": "#243447"
+            "backgroundColor": "#0E2440"
           }
         },
         "body": {
@@ -265,14 +265,14 @@
           ],
           "spacing": "none",
           "paddingAll": "12px",
-          "backgroundColor": "#243447"
+          "backgroundColor": "#0E2440"
         }
       },
       {
         "type": "bubble",
         "styles": {
           "body": {
-            "backgroundColor": "#243447"
+            "backgroundColor": "#0E2440"
           }
         },
         "body": {
@@ -331,14 +331,14 @@
           ],
           "spacing": "none",
           "paddingAll": "12px",
-          "backgroundColor": "#243447"
+          "backgroundColor": "#0E2440"
         }
       },
       {
         "type": "bubble",
         "styles": {
           "body": {
-            "backgroundColor": "#243447"
+            "backgroundColor": "#0E2440"
           }
         },
         "body": {
@@ -397,7 +397,7 @@
           ],
           "spacing": "none",
           "paddingAll": "12px",
-          "backgroundColor": "#243447"
+          "backgroundColor": "#0E2440"
         }
       }
     ]

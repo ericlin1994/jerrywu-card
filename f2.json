@@ -8,7 +8,7 @@
         "type": "bubble",
         "styles": {
           "body": {
-            "backgroundColor": "#243447"
+            "backgroundColor": "#0E2440"
           }
         },
         "body": {
@@ -67,11 +67,11 @@
           ],
           "spacing": "none",
           "paddingAll": "12px",
-          "backgroundColor": "#243447"
+          "backgroundColor": "#0E2440"
         },
         "hero": {
           "type": "image",
-          "url": "https://jerrywu.cardtaiwan.com/img/card1-v21.jpg",
+          "url": "https://jerrywu.cardtaiwan.com/img/card1-v22.jpg",
           "size": "full",
           "aspectRatio": "3:4",
           "aspectMode": "cover"
@@ -81,7 +81,7 @@
         "type": "bubble",
         "styles": {
           "body": {
-            "backgroundColor": "#243447"
+            "backgroundColor": "#0E2440"
           }
         },
         "body": {
@@ -140,11 +140,11 @@
           ],
           "spacing": "none",
           "paddingAll": "12px",
-          "backgroundColor": "#243447"
+          "backgroundColor": "#0E2440"
         },
         "hero": {
           "type": "image",
-          "url": "https://jerrywu.cardtaiwan.com/img/card2-v9.jpg",
+          "url": "https://jerrywu.cardtaiwan.com/img/card2-v10.jpg",
           "size": "full",
           "aspectRatio": "3:4",
           "aspectMode": "cover"
@@ -154,7 +154,7 @@
         "type": "bubble",
         "styles": {
           "body": {
-            "backgroundColor": "#243447"
+            "backgroundColor": "#0E2440"
           }
         },
         "body": {
@@ -213,11 +213,11 @@
           ],
           "spacing": "none",
           "paddingAll": "12px",
-          "backgroundColor": "#243447"
+          "backgroundColor": "#0E2440"
         },
         "hero": {
           "type": "image",
-          "url": "https://jerrywu.cardtaiwan.com/img/card3-v10.jpg",
+          "url": "https://jerrywu.cardtaiwan.com/img/card3-v11.jpg",
           "size": "full",
           "aspectRatio": "3:4",
           "aspectMode": "cover"
@@ -227,7 +227,7 @@
         "type": "bubble",
         "styles": {
           "body": {
-            "backgroundColor": "#243447"
+            "backgroundColor": "#0E2440"
           }
         },
         "body": {
@@ -286,11 +286,11 @@
           ],
           "spacing": "none",
           "paddingAll": "12px",
-          "backgroundColor": "#243447"
+          "backgroundColor": "#0E2440"
         },
         "hero": {
           "type": "image",
-          "url": "https://jerrywu.cardtaiwan.com/img/card4-v12.jpg",
+          "url": "https://jerrywu.cardtaiwan.com/img/card4-v13.jpg",
           "size": "full",
           "aspectRatio": "3:4",
           "aspectMode": "cover"
@@ -300,7 +300,7 @@
         "type": "bubble",
         "styles": {
           "body": {
-            "backgroundColor": "#243447"
+            "backgroundColor": "#0E2440"
           }
         },
         "body": {
@@ -359,11 +359,11 @@
           ],
           "spacing": "none",
           "paddingAll": "12px",
-          "backgroundColor": "#243447"
+          "backgroundColor": "#0E2440"
         },
         "hero": {
           "type": "image",
-          "url": "https://jerrywu.cardtaiwan.com/img/card5-v17.jpg",
+          "url": "https://jerrywu.cardtaiwan.com/img/card5-v18.jpg",
           "size": "full",
           "aspectRatio": "3:4",
           "aspectMode": "cover"
@@ -373,7 +373,7 @@
         "type": "bubble",
         "styles": {
           "body": {
-            "backgroundColor": "#243447"
+            "backgroundColor": "#0E2440"
           }
         },
         "body": {
@@ -432,7 +432,7 @@
           ],
           "spacing": "none",
           "paddingAll": "12px",
-          "backgroundColor": "#243447"
+          "backgroundColor": "#0E2440"
         }
       }
     ]
