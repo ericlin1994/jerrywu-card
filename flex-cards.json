@@ -1274,7 +1274,6 @@
                       "weight": "regular",
                       "color": "#FFFFFF",
                       "wrap": true,
-                      "margin": "none",
                       "flex": 7
                     }
                   ],
@@ -1305,7 +1304,6 @@
                       "weight": "regular",
                       "color": "#FFFFFF",
                       "wrap": true,
-                      "margin": "none",
                       "flex": 7
                     }
                   ],
@@ -1336,7 +1334,6 @@
                       "weight": "regular",
                       "color": "#FFFFFF",
                       "wrap": true,
-                      "margin": "none",
                       "flex": 7
                     }
                   ],
@@ -1372,7 +1369,6 @@
                       "weight": "regular",
                       "color": "#FFFFFF",
                       "wrap": true,
-                      "margin": "none",
                       "flex": 7
                     }
                   ],
@@ -1403,7 +1399,6 @@
                       "weight": "regular",
                       "color": "#FFFFFF",
                       "wrap": true,
-                      "margin": "none",
                       "flex": 7
                     }
                   ],
