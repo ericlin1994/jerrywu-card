@@ -144,7 +144,7 @@
         },
         "hero": {
           "type": "image",
-          "url": "https://jerrywu.cardtaiwan.com/img/card2-v13.jpg",
+          "url": "https://jerrywu.cardtaiwan.com/img/card2-v14.jpg",
           "size": "full",
           "aspectRatio": "3:4",
           "aspectMode": "cover"
@@ -217,7 +217,7 @@
         },
         "hero": {
           "type": "image",
-          "url": "https://jerrywu.cardtaiwan.com/img/card3-v13.jpg",
+          "url": "https://jerrywu.cardtaiwan.com/img/card3-v14.jpg",
           "size": "full",
           "aspectRatio": "3:4",
           "aspectMode": "cover"
@@ -290,7 +290,7 @@
         },
         "hero": {
           "type": "image",
-          "url": "https://jerrywu.cardtaiwan.com/img/card4-v17.jpg",
+          "url": "https://jerrywu.cardtaiwan.com/img/card4-v18.jpg",
           "size": "full",
           "aspectRatio": "3:4",
           "aspectMode": "cover"
@@ -363,7 +363,7 @@
         },
         "hero": {
           "type": "image",
-          "url": "https://jerrywu.cardtaiwan.com/img/card5-v22.jpg",
+          "url": "https://jerrywu.cardtaiwan.com/img/card5-v23.jpg",
           "size": "full",
           "aspectRatio": "3:4",
           "aspectMode": "cover"
