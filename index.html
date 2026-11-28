@@ -51,8 +51,8 @@
         background:radial-gradient(120% 85% at 82% -12%,rgba(201,162,39,.26),transparent 62%)}
   .logo{font-size:17px;font-weight:800;letter-spacing:.30em;color:#fff}
   .logo small{display:block;font-size:11px;font-weight:600;letter-spacing:.34em;color:#D8C79B;margin-top:4px}
-  .portrait{width:clamp(150px,44vw,184px);height:clamp(150px,44vw,184px);margin:16px auto 12px;border-radius:50%;object-fit:cover;
-        box-shadow:0 10px 26px rgba(0,0,0,.38);display:block}
+  .portrait{width:clamp(126px,37vw,152px);height:clamp(126px,37vw,152px);margin:16px auto 12px;border-radius:50%;object-fit:cover;
+        background:#C4C8CE;box-shadow:0 10px 26px rgba(0,0,0,.38);display:block}
   .portrait-ph{width:clamp(150px,44vw,184px);height:clamp(150px,44vw,184px);margin:16px auto 12px;border-radius:50%;
         display:flex;align-items:center;justify-content:center;font-size:13px;letter-spacing:.2em;
         border:2px dashed rgba(255,255,255,.45);color:rgba(255,255,255,.6);background:rgba(255,255,255,.06)}
@@ -436,7 +436,7 @@
     </div>
 
     <!-- 頭像檔名由 client.json 的 web.portrait 決定；沒有檔案時顯示佔位圈 -->
-    <img class="portrait" src="photo_avatar-v10.png" alt="吳伯謙 Jerry Wu" fetchpriority="high" decoding="async" width="134" height="134"
+    <img class="portrait" src="photo_avatar-v11.png" alt="吳伯謙 Jerry Wu" fetchpriority="high" decoding="async" width="134" height="134"
          onerror="this.outerHTML='<div class=&quot;portrait-ph&quot;>形象照</div>'">
 
     <h1 class="name">吳伯謙 <span>Jerry Wu</span></h1>
@@ -625,7 +625,7 @@ let payloadFailed = false;
 
 /* 改動 flex-cards.json 後請把 BUILD 往後跳一號：
    LINE 內建瀏覽器會快取檔案，不跳號會一直送出舊版卡片 */
-const BUILD = 'b166';
+const BUILD = 'b167';
 const PAGE_VER = '2026-10-23-1310'   // 每次改頁面就改這個，用來確認手機拿到的是最新版
 
 /* ═══════ FLEX_PAYLOAD_START（由 build_flex.py 自動寫入，勿手改）═══════ */
